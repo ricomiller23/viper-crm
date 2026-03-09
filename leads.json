@@ -1,13 +1,1084 @@
 {
   "leads": [
     {
-      "name": "Dr. Sarah Jenkins",
-      "company": "Optimum HRT & Peptides",
-      "category": "Peptides",
-      "email": "hello@optimum-hrt.fake",
-      "phone": "(480) 555-1234",
-      "city_state": "Scottsdale, AZ",
-      "analysis": "High volume TRT clinic operating mostly out-of-pocket cash. Prime target for CHIT adoption."
+      "name": "L. Philipp Wall",
+      "company": "The Green Leef",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(480) 652-3622",
+      "city_state": "AZ, 85253",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "NICHOLAS VITA",
+      "company": "SWC Prescott",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(928) 778-5900",
+      "city_state": "MA, 01824",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "EIVAN SHAHARA",
+      "company": "The Mint Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(480) 664-1470",
+      "city_state": "AZ, 85019",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "REVAN SHAHARA",
+      "company": "4245 Investments Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(480) 664-1470",
+      "city_state": "AZ, 85019",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MOHIT ASNANI",
+      "company": "D2 Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 214-3232",
+      "city_state": "AZ, 85705",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "CHARLES BOYDEN",
+      "company": "46 Wellness Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 214-3232",
+      "city_state": "AA, 85705",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Jeremy Basha",
+      "company": "480 License Holdings, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "480-201-0000",
+      "city_state": "AZ, 85281",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "CYNTHIA SAY",
+      "company": "Health For Life Cave Creek",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85024",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "RICHARD PROUD",
+      "company": "Abaca Inc.",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85024",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ANDREW PLANTE",
+      "company": "Abaca Inc.",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85024",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "RICHARD PROUD",
+      "company": "21035 N Cave Creek Rd Ste 3 & 4, Phoenix, AZ 85024",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Kimberly Rivers",
+      "company": "Trulieve of Tatum",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Raymond Eric Powers",
+      "company": "Abedon Saiz Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "Absolute Health Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "Absolute Health Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "Absolute Health Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "175 S Hamilton Pl Bldg 4 Ste 110, Gilbert, AZ 85233",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "THANH PHAM",
+      "company": "AGI Management LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85340",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "THANH PHAM",
+      "company": "All Greens Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85340",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "TRAM PHAM",
+      "company": "All Greens Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85037",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MYNGA TRAN",
+      "company": "10032 W Bell Rd Ste 100, Sun City, AZ 85351",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85041",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "THANH PHAM",
+      "company": "",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(623) 214-0801",
+      "city_state": "AZ, 85340",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "All Rebel Rockers Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "All Rebel Rockers Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "All Rebel Rockers Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "4730 S 48th St, Phoenix, AZ 85040",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "John Campbell",
+      "company": "Apache County Dispensary LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "ID, 83340",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Ian Lev - Sole Manager",
+      "company": "Apollo Labs",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85755",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Genalyn Duka",
+      "company": "Arizona Cannabis Society Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85395",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Dana Nutt",
+      "company": "Arizona Cannabis Society Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85335",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "PRADIP PATEL",
+      "company": "Arizona Golden Leaf Wellness, Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85742",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Edwin Gomez",
+      "company": "Nature's Medicines",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85008",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Jigarkumar Patel",
+      "company": "Arizona Natural Pain Solutions I",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85008",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "EDMOND VARTUGHIAN",
+      "company": "Arizona Natures Wellness",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "Arizona Natures Wellness",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "Arizona Natures Wellness",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "465 Jordan Rd, Sedona, AZ 86336",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MARK MYER",
+      "company": "Arizona Organix",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85301",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "RYAN WELLS",
+      "company": "Arizona Organix",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85301",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "WILLIAM BENJAMIN MYER",
+      "company": "5303 W Glendale Ave, Glendale, AZ 85301",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85021",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Sheraz Warraich",
+      "company": "Nirvana Center",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85042",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "CONOR ALAN COUNSELMAN",
+      "company": "Nova Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85201",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ALEXANDER KEITH MIXON",
+      "company": "Arizona Wellness Collective 3, Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85201",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MICHAEL ANTON",
+      "company": "TruMed Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85250",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "RAMZI DUGUM",
+      "company": "Az Compassionate Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85018",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MICHAEL ANTON",
+      "company": "Az Compassionate Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85250",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ANDREW KEVELSON",
+      "company": "AZ Flower Power LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85251",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Edmond Vartughian",
+      "company": "AZC1",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "AZCL1",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "AZCL1",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "4695 N Oracle Rd Ste 117, Tucson, AZ 85705",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "GEORGE ARCHOS",
+      "company": "Zen Leaf Chandler",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "IL, 60654",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Darren Weiss",
+      "company": "AZGM 3, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "IL, 60654",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "James Leventis",
+      "company": "AZGM 3, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "IL, 60654",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Usman Karriem",
+      "company": "Black Labs, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85224",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "GLENN CHERRY",
+      "company": "Black Labs, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 33647",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Revan Shahara",
+      "company": "",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85283",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Michael Anton",
+      "company": "Blue Palo Verde 1, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85017",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Ramzi Dugum",
+      "company": "Blue Palo Verde 1, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85017",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Eivan Shahara",
+      "company": "15235 North Dysart Road, 11D, El Mirage, AZ 85335",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85283",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "David Pilkington",
+      "company": "15235 North Dysart Road, 11D, El Mirage, AZ 85335",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85017",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "SCOTT VARGAS",
+      "company": "Sticky Saguaro",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85249",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "TODD VARGAS",
+      "company": "Border Health, Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85249",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Al Foreman",
+      "company": "HANA MEDS",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85012",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Sergey Sherman",
+      "company": "Broken Arrow Herbal Center Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85012",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Delano Phillips",
+      "company": "Broken Arrow Herbal Center Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85012",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Greta Brandt",
+      "company": "The Flower Shop Az",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85016",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Mike Standlee",
+      "company": "Buds & Roses, Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85016",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Kimberly Rivers",
+      "company": "Trulieve of Scottsdale Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Raymond Eric Powers",
+      "company": "Byers Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "AARI C RUBEN",
+      "company": "Releaf",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85712",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "EDWIN GOMEZ",
+      "company": "The Phoenix",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85008",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Jigarkumar Patel",
+      "company": "Cannabis Research Group Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85008",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Jusmin Patel",
+      "company": "Cannabis Research Group Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85008",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "John Haugh",
+      "company": "The Mint",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85012",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew S Darin",
+      "company": "Catalina Hills Botanical Care",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter L Clateman",
+      "company": "Catalina Hills Botanical Care Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Al Foreman",
+      "company": "HANA MEDS",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "85012, Maricopa County",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Sergey Sherman",
+      "company": "Cjk Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "85012, Maricopa County",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Delano Phillips",
+      "company": "Cjk Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "85012, Maricopa County",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "LEONARD DESTEFANO",
+      "company": "Consume Cannabis",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85014",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "DAVID FLOOD",
+      "company": "Compassionate Care Of AZ, Inc.",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85014",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "WILLIAM PAWLOWSKI",
+      "company": "Compassionate Care Of AZ, Inc.",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85014",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "BRYAN W HILL",
+      "company": "Botanica",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85701",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Jennifer Slothower",
+      "company": "Copper State Herbal Center Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85704",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Thomas Beyer",
+      "company": "Sol Flower",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85281",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Michael Halow",
+      "company": "Curious Cultivators I LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "CA, 92014",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "T. Jason Vedadi",
+      "company": "Curious Cultivators I LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85254",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Abel Ochoa",
+      "company": "Deeply Rooted Boutique Cannabis Company",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85036",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Diana Pineda",
+      "company": "Desert Boyz",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85036",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ANDREW R PROVENCIO",
+      "company": "JARS Cannabis",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85260",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ANDREW PROVENCIO",
+      "company": "Desert Medical Campus Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85260",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Pamela Donner",
+      "company": "Desert Medical Campus Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85260",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Pamela Donner",
+      "company": "10040 N. Metro Parkway W, Phoenix, AZ 85051",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85260",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Ronnie Kassab",
+      "company": "",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85029",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MARCO PAREDES",
+      "company": "Green Pharms",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85310",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ALICIA MARI PAREDES",
+      "company": "Desertview Wellness & Healing Solutions, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85310",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ARVIN SALOUM",
+      "company": "Desertview Wellness & Healing Solutions, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85310",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Matthew Darin",
+      "company": "Devine Desert Healing Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Peter Clateman",
+      "company": "Devine Desert Healing Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "NY, 10170",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Ronnie KASSAB",
+      "company": "JARS Cannabis",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85029",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ANTHONY YOUSIF",
+      "company": "Dreem Green Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85051",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "ARA NISHANIAN",
+      "company": "Dreem Green Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85051",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "J. CHRIS ARNOLD",
+      "company": "Nature's Wonder",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85028",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Stacey L Arnold",
+      "company": "Nature's Wonder",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85028",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Christopher M Arnold",
+      "company": "6812 East Cave Creek Road, 2, 2A and 3, Cave Creek, AZ 85331",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85028",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Alexander Arnold",
+      "company": "6812 East Cave Creek Road, 2, 2A and 3, Cave Creek, AZ 85331",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85028",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "VICKY PUCHI-SAAVEDRA",
+      "company": "Earth's Healing Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85714",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "KELLY PARK",
+      "company": "Earth's Healing Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85714",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "William Elliott",
+      "company": "2075 E Benson Hwy, Tucson, AZ 85714",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85714",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Magda Saavedra",
+      "company": "2075 E Benson Hwy, Tucson, AZ 85714",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85714",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "THOMAS BEYER",
+      "company": "East Valley Patient Wellness Group Inc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85281",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Eivan Shahara",
+      "company": "Mint Cannabis",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85283",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Revan Shahara",
+      "company": "Eba Holdings Inc.",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85283",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "CHARLES BOYDEN",
+      "company": "The Downtown Dispensary",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85705",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "STEPHANIE GABRIEL BOYDEN",
+      "company": "Forever 46 Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85705",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "MOHIT ASNANI",
+      "company": "Forever 46 Llc",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "AZ, 85705",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Kimberly Rivers",
+      "company": "Formula 420 Cannabis, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Raymond Eric Powers",
+      "company": "Formula 420 Cannabis, LLC",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
+    },
+    {
+      "name": "Raymond Eric Powers",
+      "company": "Trulieve of Tucson",
+      "category": "Cannabis",
+      "email": "",
+      "phone": "(520) 886-2484",
+      "city_state": "FL, 32312",
+      "analysis": "Sourced from AZ state dispensary licensure Matrix. High-cash volume cannabis enterprise directly suited for CHIT B2B digital treasury."
     }
   ]
 }
