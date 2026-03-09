@@ -617,21 +617,42 @@
             </p>
         </div>
 
-        <button class="btn-viper">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
-            </svg>
-            Auto-Draft CHIT Pitch Email
-        </button>
-        <button class="btn-secondary">Move to "Approached"</button>
+        <div style="display:flex; gap:10px; margin-bottom: 20px;">
+            <button class="btn-viper" id="btn-draft" onclick="draftEmail()" style="flex:1; justify-content:center;">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+                </svg>
+                <span>Auto-Draft CHIT Pitch Email</span>
+            </button>
+            <button class="btn-secondary" style="flex:1;">Move to "Approached"</button>
+        </div>
+
+        <div id="draft-container" style="display:none; flex-direction:column; flex:1; animation: fadeIn 0.3s ease;">
+            <div
+                style="font-size:12px; color:var(--viper-green); margin-bottom:10px; text-transform:uppercase; letter-spacing:1px; font-weight:700; display:flex; justify-content:space-between; align-items:center;">
+                AI Draft Generation
+                <button onclick="copyDraft()"
+                    style="background:transparent; border:1px solid var(--viper-green); color:var(--viper-green); padding:4px 8px; border-radius:4px; font-size:10px; cursor:pointer; font-weight:600;">COPY
+                    TEXT</button>
+            </div>
+            <textarea id="draft-output"
+                style="width:100%; flex:1; min-height: 380px; background:rgba(0,0,0,0.3); border:1px solid var(--border); border-radius:8px; color:var(--text-main); font-family:monospace; font-size:12px; padding:15px; resize:vertical; outline:none; line-height:1.5; white-space:pre-wrap;"></textarea>
+        </div>
     </div>
 
     <script>
         let LEADS_DATA = [];
+        let currentLeadIndex = -1;
 
         function openDrawer(index) {
+            currentLeadIndex = index;
             const lead = LEADS_DATA[index];
             if (!lead) return;
+
+            // Reset Draft UI
+            document.getElementById('draft-container').style.display = 'none';
+            document.getElementById('draft-output').value = '';
+            document.querySelector('#btn-draft span').textContent = 'Auto-Draft CHIT Pitch Email';
 
             document.getElementById('drw-name').textContent = lead.name || "Unknown Contact";
             document.getElementById('drw-comp').textContent = lead.company;
@@ -648,11 +669,56 @@
             document.getElementById('drawer').classList.remove('open');
         }
 
+        async function draftEmail() {
+            if (currentLeadIndex < 0) return;
+            const lead = LEADS_DATA[currentLeadIndex];
+            const btn = document.getElementById('btn-draft');
+            const btnText = btn.querySelector('span');
+
+            btnText.textContent = 'Generating Drafts...';
+            btn.style.opacity = '0.7';
+            btn.style.pointerEvents = 'none';
+
+            try {
+                const res = await fetch('/api/generate', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(lead)
+                });
+
+                const data = await res.json();
+
+                if (data.success) {
+                    document.getElementById('draft-container').style.display = 'flex';
+                    document.getElementById('draft-output').value = data.body;
+                    btnText.textContent = 'Regenerate Drafts';
+                } else {
+                    alert('Draft Generation Failed: ' + data.error);
+                    btnText.textContent = 'Auto-Draft CHIT Pitch Email';
+                }
+            } catch (e) {
+                alert('Network error while drafting.');
+                btnText.textContent = 'Auto-Draft CHIT Pitch Email';
+            } finally {
+                btn.style.opacity = '1';
+                btn.style.pointerEvents = 'auto';
+            }
+        }
+
+        function copyDraft() {
+            const textarea = document.getElementById('draft-output');
+            textarea.select();
+            document.execCommand('copy');
+            const copyBtn = document.querySelector('button[onclick="copyDraft()"]');
+            copyBtn.textContent = 'COPIED!';
+            setTimeout(() => copyBtn.textContent = 'COPY TEXT', 2000);
+        }
+
         async function init() {
             try {
                 // In production, this proxies to the python backend or Next Auth API.
                 // For this interactive local shell, fetch the static generated leads.
-                const res = await fetch('leads.json');
+                const res = await fetch('/leads.json');
                 const data = await res.json();
                 LEADS_DATA = data.leads || [];
                 renderIdentifiedLeads();
