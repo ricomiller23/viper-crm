@@ -1,0 +1,13 @@
+{
+  "leads": [
+    {
+      "name": "Dr. Sarah Jenkins",
+      "company": "Optimum HRT & Peptides",
+      "category": "Peptides",
+      "email": "hello@optimum-hrt.fake",
+      "phone": "(480) 555-1234",
+      "city_state": "Scottsdale, AZ",
+      "analysis": "High volume TRT clinic operating mostly out-of-pocket cash. Prime target for CHIT adoption."
+    }
+  ]
+}
